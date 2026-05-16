@@ -1,0 +1,13 @@
+FROM mcr.microsoft.com/devcontainers/python:3.12
+
+# uvのバイナリをコピー
+COPY --from=ghcr.io/astral-sh/uv:latest /uv /uvx /bin/
+
+# 作業ディレクトリの設定
+WORKDIR .
+
+# ユーザーをvscodeに切り替え（DevContainerのデフォルト）
+USER vscode
+
+# プロジェクトの初期化（コンテナ起動時でも可）
+# RUN uv sync

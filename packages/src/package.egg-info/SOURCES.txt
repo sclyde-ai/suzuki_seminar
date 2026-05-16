@@ -1,0 +1,8 @@
+pyproject.toml
+src/LogicTable/LogicTable.py
+src/LogicTable/__init__.py
+src/package.egg-info/PKG-INFO
+src/package.egg-info/SOURCES.txt
+src/package.egg-info/dependency_links.txt
+src/package.egg-info/requires.txt
+src/package.egg-info/top_level.txt

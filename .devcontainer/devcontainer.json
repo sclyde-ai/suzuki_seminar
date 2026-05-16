@@ -1,0 +1,22 @@
+{
+  "name": "Suzuki",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": ".."
+  },
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "python.defaultInterpreterPath": "/usr/local/bin/python",
+        "python.linting.enabled": true,
+        "python.formatting.provider": "black"
+      },
+      "extensions": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "njpwerner.autodocstring"
+      ]
+    }
+  },
+  "remoteUser": "vscode"
+}
