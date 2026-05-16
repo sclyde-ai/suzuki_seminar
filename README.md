@@ -6,40 +6,22 @@
 
 ## フォルダとファイルの解説
 ### フォルダ
-- data
+- data : データをおいておくフォルダ
 
-    データをおいておくフォルダ
+- docs : 参考資料をおいておくフォルダ
 
-- docs
+- notebooks : 基本は拡張子がipynbのものをおいておくフォルダ
 
-    参考資料をおいておくフォルダ
+- packages : 使い回したいコードを使い回すためのフォルダ
 
-- notebooks
-
-    基本は拡張子がipynbのものをおいておくフォルダ
-
-- packages
-
-    使い回したいコードを使い回すためのフォルダ
-
-- troubleshooting
-
-    問題報告のためのフォルダ（エラーは皆で共有して対処したい）
+- troubleshooting : 問題報告のためのフォルダ（エラーは皆で共有して対処したい）
 
 ### ファイル
-- make-venv-uv.sh
+- make-venv-uv.sh : uvで.venv環境を構築するためのbashファイル
 
-    uvで.venv環境を構築するためのbashファイル
+- git-push.sh : git pullやpushなどのめんどくさいところを勝手にやってくれるbashファイル
 
-- git-push.sh
+- README : 読むためのmarkdownファイル
 
-    git pullやpushなどのめんどくさいところを勝手にやってくれるbashファイル
-
-- README
-
-    読むためのmarkdownファイル
-
-- requirements.txt
-
-    pythonのライブラリの依存関係を示したテキストファイル
+- requirements.txt : pythonのライブラリの依存関係を示したテキストファイル
 
