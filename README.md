@@ -31,6 +31,10 @@
 
     uvで.venv環境を構築するためのbashファイル
 
+- git-push.sh
+
+    git pullやpushなどのめんどくさいところを勝手にやってくれるbashファイル
+
 - README
 
     読むためのmarkdownファイル
