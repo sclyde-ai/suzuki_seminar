@@ -1,4 +1,11 @@
 # suzuki_seminar
+## 輪読本
+### 確率過程入門
+https://www.morikita.co.jp/books/mid/009441
+
+### measure, integral, probability & processs
+https://www.motapa.de/dresden-course/index.shtml
+
 ## venv環境作成
 ```
 ./make-venv-uv.sh
