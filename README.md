@@ -6,6 +6,10 @@ https://www.morikita.co.jp/books/mid/009441
 ### measure, integral, probability & processs
 https://www.motapa.de/dresden-course/index.shtml
 
+## 参考文献など
+### wiis
+https://wiis.info
+
 ## venv環境作成
 ```
 ./make-venv-uv.sh
