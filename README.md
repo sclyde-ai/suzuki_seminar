@@ -27,7 +27,9 @@ https://wiis.info
 
 - packages : 使い回したいコードを使い回すためのフォルダ
 
-- troubleshooting : 問題報告のためのフォルダ（エラーは皆で共有して対処したい）
+- questions : 質問箱。（疑問は皆で共有したい）
+
+- troubleshooting : 問題報告のためのフォルダ（エラーも同様に皆で共有して対処したい）
 
 ### ファイル
 - make-venv-uv.sh : uvで.venv環境を構築するためのbashファイル
