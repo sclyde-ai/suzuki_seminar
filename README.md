@@ -13,6 +13,8 @@ https://www.motapa.de/dresden-course/index.shtml
 
 ## フォルダとファイルの解説
 ### フォルダ
+- books : 輪読本の内容を記述するフォルダ
+
 - data : データをおいておくフォルダ
 
 - docs : 参考資料をおいておくフォルダ
