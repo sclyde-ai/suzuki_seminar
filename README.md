@@ -10,7 +10,12 @@ https://www.motapa.de/dresden-course/index.shtml
 ### wiis
 https://wiis.info
 
-## venv環境作成
+## 環境構築
+### 1. devcontainer
+1. command + P (mac)
+2. > Dev Containers: Rebuild and Reopen in Container
+
+### 2. uv
 ```
 ./make-venv-uv.sh
 ```
